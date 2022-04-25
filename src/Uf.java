@@ -33,3 +33,18 @@ public class Uf {
         }
     }
 }
+class Off{
+    public static void main(String[] args) {
+        Scanner off= new Scanner(System.in);
+        System.out.println("angl of trinagl");
+        int a= off.nextInt();
+        int b= off.nextInt();
+        int h=off.nextInt();
+        int j= a+b+h;
+        if (j>180 && j==180){
+            
+        }
+
+    }
+}
+
